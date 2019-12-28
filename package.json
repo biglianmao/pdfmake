@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bpampuch/pdfmake.git"
+    "url": "git://github.com/biglianmao/pdfmake.git"
   },
   "keywords": [
     "pdf",
